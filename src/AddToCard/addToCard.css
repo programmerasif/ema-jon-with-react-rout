@@ -1,0 +1,25 @@
+.cartContainer{
+    background-color: rgba(255, 153, 0, 0.3);
+    padding: 30px;
+    border-radius: 5px;
+    position: sticky;
+    top: 0px;
+}
+.cart{
+    
+    padding: 10px 10px 10px 20px ;
+    
+}
+.primaryBtn{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    color: white;
+    
+}
+.clrBtn{
+    background-color: #FF3030;
+}
+.reviewBtn{
+    background-color: #FF9900;
+}

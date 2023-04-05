@@ -1,0 +1,16 @@
+.headerComponent{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px 0 100px;
+}
+.headerInfo a{
+    color: white;
+    margin-left: 30px;
+}
+
+.headerInfo a:hover {
+color: gold;
+}
